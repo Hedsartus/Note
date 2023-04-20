@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Конспект</string>
+    <string name="hintTitle">Заголовок</string>
+
+    <!-- Error messages -->
+    <string name="error_choice_message">Выберите сначала каталог</string>
+
+    <!-- Dialog messages -->
+    <string name="title_when_delete_note">"Удаление каталога"</string>
+    <string name="message_when_delete_note">Каталог возможно не пустой, удалятся все вложенные объекты</string>
+
+    <!-- Button title -->
+    <string name="yes">Да</string>
+    <string name="no">Нет</string>
+    <string name="cancel">Отмена</string>
+    <string name="pasteButton">Вставить</string>
+    <string name="cancelButton">Отмена</string>
+</resources>

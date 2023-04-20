@@ -1,0 +1,2 @@
+rootProject.name = "ConspectNote"
+include ':app'

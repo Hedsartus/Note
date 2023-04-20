@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/top_menu_add"
+        android:icon="@android:drawable/ic_input_add"
+        android:title="Новая заметка"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/top_menu_move"
+        app:showAsAction="never"
+        android:title="Переместить ветку" />
+
+    <item
+        android:id="@+id/top_menu_load_tree"
+        app:showAsAction="never"
+        android:title="Загрузить ветку" />
+    <item
+        android:id="@+id/top_menu_export_tree"
+        app:showAsAction="never"
+        android:title="Выгрузить ветку" />
+    <item
+        android:id="@+id/top_menu_delete"
+        app:showAsAction="never"
+        android:title="Удалить ветку" />
+</menu>
